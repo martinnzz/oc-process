@@ -6,6 +6,9 @@ theme:
 
 nav:
   - Home: index.md
+  - 'Passwords and security':
+    - Passwords: passwords.md
+    - Security: security.md
 
 plugins:
   - search
