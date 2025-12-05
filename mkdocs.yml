@@ -2,12 +2,7 @@ site_name: OC Process
 site_url: https://awpbuild.atlnz.lc/releases/awplus-gui/cloud/docs/oc-process/
 repo_url: https://github.dev/martinnzz/oc-process
 theme:
-  name: material
-  features:
-    - navigation.footer
-    - natigation.top
-    - navigation.sections
-    - navigations.expand
+  name: readthedocs
 nav:
   - Home: index.md
   - 'Passwords and security':
