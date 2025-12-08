@@ -1,3 +1,3 @@
 the readme
 
-[intro](intro.md)
+[intro](passwords.md)
