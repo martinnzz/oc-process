@@ -44,11 +44,17 @@ theme:
 
 nav:
   - Home: 
-    - Index: index.md
-    - Intro: intro.md
-  - 'Passwords and security':
-    - Passwords: passwords.md
-    - Security: security.md
+    - Introduction: stub.md
+    - Overview: stub.md
+  - Processes:
+    - Testing: stub.md
+    - Continuous Delivery: stub.md
+  - Architecture:
+    - Guidlines: stub.md
+    - Details: stub.md
+  - Workflows:
+    - 'How to publish an image': stub.md
+    - 'How to test an image': stub.md
 
 plugins:
   - search
