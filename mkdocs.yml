@@ -43,7 +43,8 @@ theme:
     code: Roboto Mono
 
 nav:
-  - Home: index.md
+  - Home: 
+    - Index: index.md
     - Intro: intro.md
   - 'Passwords and security':
     - Passwords: passwords.md
