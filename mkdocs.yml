@@ -44,17 +44,17 @@ theme:
 
 nav:
   - Home: 
-    - Introduction: stub.md
-    - Overview: stub.md
+    - Introduction: introduction.md
+    - Overview: overview.md
   - Processes:
-    - Testing: stub.md
-    - Continuous Delivery: stub.md
+    - Testing: testing.md
+    - Continuous Delivery: cd.md
   - Architecture:
-    - Guidlines: stub.md
-    - Details: stub.md
+    - Guidelines: guidelines.md
+    - Details: details.md
   - Workflows:
-    - 'How to publish an image': stub.md
-    - 'How to test an image': stub.md
+    - 'How to publish an image': publish.md
+    - 'How to test an image': test.md
 
 plugins:
   - search

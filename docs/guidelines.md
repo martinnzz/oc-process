@@ -1,4 +1,4 @@
-# Index
+# Guidelines
 
 ## Section 1
 

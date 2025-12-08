@@ -1,4 +1,4 @@
-# Index
+# Publish
 
 ## Section 1
 

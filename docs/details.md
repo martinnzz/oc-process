@@ -1,4 +1,4 @@
-# Index
+# Details
 
 ## Section 1
 
